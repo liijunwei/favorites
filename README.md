@@ -4,6 +4,8 @@ WIP
 
 A list of my favorites
 
+And I know, I won't regret writing them down
+
 # Initial design
 
 structure by folder and metadata in README.md
