@@ -4,6 +4,8 @@ A list of my favorites
 
 # Initial design
 
+structure by folder and metadata in README.md
+
 ```
 music
   墙上的向日葵
@@ -25,5 +27,17 @@ music
       ...???
       ---
     other files
+```
+
+# Another design
+
++ structure by file naming and metadata in each file(not flexiable enough), simple enough(I don't want this to be complicated, if it need to be complicated, it could have been a blog post)
+or
++ structure by folder naming and metadata in each folder, can extend by adding files to that folder, similiar to initial idea, mainly differ from folder naming
+
+```
+favorites
+  20220726.naming-of-favoriate-xxx.md
+    include tag in header
 ```
 
