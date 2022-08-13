@@ -4,5 +4,6 @@
 
 + “To attain knowledge, add things everyday; to obtain wisdom, remove things everyday.” - Lao Tzu
 
++ "实事求是, 积极向上"
 
-
++ "态度决定一切"
