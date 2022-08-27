@@ -13,3 +13,11 @@ partial of [RailsConf 2014 - Keynote: Writing Software by David Heinemeier Hanss
 
 [talk captions](./videos/how-to-become-a-good-programmer-by-DHH.txt)
 
++ you can just delete stuff, like that's my favorite key "the delete key", it's the number one tool for improving code: "delete key"
+
++ **if you have something on your mind, you should write it down(first step), if you've written something down, you should rewrite it; that was the step i missed and i think that's the step most people miss, when they write down code, because they're focused on all these other things, they're not focused on the clarity, because when you are focused on the clarity you will realize that all your first drafts are terrible**
+
++ but once you've written it down you should rewrite it, and i think the key part of rewriting is omitting needless words when it comes to regular writing,  when it comes to programming it's omitting needless concepts, it's omitting needless patterns, it's omitting needless practices, it's omitting needless classes, it's omitting all these extra things that aren't getting you closer to clarity
+
+
+
