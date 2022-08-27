@@ -1,0 +1,519 @@
+autogenarated by https://downsub.com/
+==========================================
+
+the only way to become a good programmer
+
+where by definition
+
+i define good programmers somebody who
+
+program who writes software with clarity
+
+is to read a lot of software write a lot
+
+of software
+
+just like how do you become a good
+
+photographer you take a lot of pictures
+
+and you look at them and you practice
+
+and you practice and you practice
+
+that's actually quite similar to the
+
+problem with diets right
+
+the fundamental truth with diet is to be
+
+healthy
+
+well you should probably exercise
+
+regularly you should probably
+
+eat a reasonable amount and it should be
+
+good stuff like
+
+that's three things incredibly hard to
+
+do most people do not do that
+
+right figuring out how to write good
+
+software
+
+read a lot of software write a lot of
+
+software um
+
+aim for clarity it sounds too simple why
+
+is it simple because there's not just a
+
+secret
+
+there's not just one answer somebody can
+
+give you um
+
+the only way you can get there is by
+
+doing it
+
+so when i first started developing
+
+rails i read a ton of software
+
+i read the entire ruby standard library
+
+partly because
+
+documentation of ruby at that time was
+
+pretty poor and the only way to figure
+
+out how it worked was to actually look
+
+at code
+
+but that was also where i learned so
+
+much
+
+today we have it so much easier bundle
+
+open name of any gem and elopin boom
+
+right up in your text editor you can
+
+look at any code
+
+how many of you have read through a
+
+complete
+
+gem recently something you did not write
+
+awesome that's actually really
+
+encouraging i thought it'd be much less
+
+i think that is exactly the path you
+
+need to take you need to read
+
+a ton of code and it's not so much
+
+just because you read this code and then
+
+oh that's all great stuff um just as
+
+important as it is to
+
+to develop your sense of writing by
+
+reading a lot of writing
+
+so is it with code and i think you'll
+
+find that that is actually very easy
+
+because a lot of things you'll do bundle
+
+open on will follow
+
+sturgeon's revelation 90
+
+of everything is crap um
+
+well at least you know you have company
+
+if you write crap software and i
+
+certainly do from time time
+
+um and that's a great way to learn i
+
+actually find that i learned the most
+
+about software i learned the most about
+
+what matters to me i learned the most
+
+about what clarity is
+
+when i read poor software because what i
+
+do is i take a piece of software
+
+i take a class or method and then i look
+
+at how good is pclearer like this is
+
+i think this is poorly written i think
+
+this smells um
+
+how can i rewrite it so by just sitting
+
+down and going through that exercise and
+
+rewriting it
+
+i find i learn a whole lot about what i
+
+care about
+
+so that's what i've been doing lately
+
+engaging in a lot of these
+
+internet arguments somebody will submit
+
+a piece of code and
+
+usually the submission will come along
+
+with the proposed solution too right i
+
+had this shitty piece of code
+
+then i learned about these three
+
+patterns and now it's wonderful
+
+and what i have found every single time
+
+and i've only done this
+
+maybe a handful of time maybe a little
+
+more is that every single time
+
+you just took the shitty code and you
+
+stuck it into some different boxes
+
+like it didn't actually improve applying
+
+the pattern to it did not improve
+
+the underlying clarity of the code
+
+because you just
+
+wrote it poorly like the problem with
+
+the code was not that it was missing
+
+patterns
+
+the problem with the code was that it
+
+was crap
+
+that it just had to be rewritten now
+
+that leads us to sort of uh
+
+mission in some ways for what rails is
+
+and what ruby is
+
+and it leads also to clarify some of the
+
+arguments we've had in the rails
+
+community for a while
+
+readability is incredibly important to
+
+ruby we have a lot of duplicated methods
+
+that do exactly the same thing just so
+
+we can improve readability
+
+i remember the first time i saw unless
+
+when i was learning about ruby that was
+
+one of those light bulb moments
+
+like wait a minute unless it's exactly
+
+the same as if
+
+not but it's a different keyword
+
+huh right it was not just about making
+
+the most
+
+efficient compact language
+
+it was about readability
+
+mind blown and
+
+decade long love affair would ruby
+
+established
+
+and i think this is what we're trying to
+
+achieve
+
+constantly in rails as well a lot of
+
+people will gripe about oh active record
+
+is
+
+too big or something is too big or have
+
+too many methods
+
+the surface area is too big or there's
+
+whatever it is right
+
+like who gives you is it more
+
+readable is it more clear
+
+that's the only thing that matters what
+
+do i care whether the surface area of a
+
+method is
+
+100 methods or it's 200 methods i don't
+
+give a about that the only thing i
+
+gave a about is whether
+
+it's the code i'm actually reading is
+
+the system i'm trying to understand is
+
+that more clear
+
+when you put clarity as your number one
+
+mission a lot of concerns
+
+just fall by the wayside it just doesn't
+
+matter anymore and it's liberating
+
+so i think this actually comes from sort
+
+of the same route
+
+i didn't have time to write a short
+
+letter so i wrote a long one instead
+
+i think that describes about eighty
+
+percent of all that ninety percent of
+
+shitty code
+
+most people did not take the time to
+
+write
+
+a short piece of code so they wrote a
+
+long one instead and then they wrote
+
+that long one
+
+piece of code and they like pulled out
+
+their suspenders and like oh yeah i'm
+
+done
+
+my tests pass boom right
+
+or they look at it and say oh this
+
+is too long i must be missing some
+
+patterns
+
+if i just sprinkle some patterns over
+
+this
+
+wonders right no
+
+what you wrote was a draft
+
+this was just the first draft right any
+
+piece of code you write down is just a
+
+draft
+
+um mark twain actually had the hard
+
+job right he wrote an ink if you
+
+actually had to change that was kind of
+
+hard right so his drafts were a lot more
+
+complicated ours
+
+we have it so easy a text editor you
+
+just delete stuff
+
+you don't need any of this little stuff
+
+that you you fill over the page and you
+
+spill it everywhere and so forth
+
+eraser you can just delete stuff
+
+like that's my favorite key the delete
+
+key
+
+it's the number one tool for improving
+
+code
+
+delete key
+
+so uh when i was in high school
+
+um i submitted a bunch of first drafts
+
+as essays and they were really shitty
+
+and of course they were they were the
+
+first draft
+
+and my teacher at the time said oh right
+
+all right this is actually not bad
+
+you just only did step one if you have
+
+something on your mind you should write
+
+it down
+
+that's what i did i i wrote it down and
+
+then i hand it in
+
+oh if you've written something down you
+
+should rewrite it
+
+oh that was the step i missed and i
+
+think that's the step most people miss
+
+when they write down code because
+
+they're focused on all these other
+
+things they're not focused on the
+
+clarity because when you are focused on
+
+the clarity you will realize that
+
+all your first drafts are terrible
+
+all my first threats are terrible all my
+
+first attempts at writing a good class
+
+are poor they're too long they're not at
+
+the same level of abstraction
+
+they're not clear and that's okay i
+
+wrote something down i was trying to
+
+figure out what the system was supposed
+
+to do
+
+that's hard work and oftentimes you
+
+don't get perfect code out of that when
+
+you're still trying to figure out what
+
+it is that you're writing
+
+um but once you've written it down you
+
+should rewrite it
+
+and i think
+
+the key part of rewriting is omitting
+
+needless words when it comes to regular
+
+writing when it comes to programming
+
+it's omitting needless concepts it's
+
+submitting needless patterns
+
+it's submitting needless practices it's
+
+submitting needless classes
+
+it's submitting all these extra things
+
+that aren't getting you closer to
+
+clarity right
+
+how do you know you develop an eye for
+
+it how do you develop an eye
+
+you read a lot of code you write a lot
+
+of code you rewrite
+
+a lot of code and you forget about
+
+ patterns for a while
+
+you forget about tdd for a while
+
+and you focus on just what's in front of
+
+you
+
+the piece of code how can i write it
+
+simpler
+
+write software well thank you very much
+
+[Music]
+
+you
+

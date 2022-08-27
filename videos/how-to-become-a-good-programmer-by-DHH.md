@@ -9,3 +9,7 @@ partial of [RailsConf 2014 - Keynote: Writing Software by David Heinemeier Hanss
 > Mark Twain
 
 
++ What you wrote is "Drafts", any piece of code you write down, it's just draft
+
+[talk captions](./videos/how-to-become-a-good-programmer-by-DHH.txt)
+
