@@ -1,0 +1,3 @@
+[simple life](https://youtu.be/XBnC2AA9U7g)
+
+竟然第一次听...
